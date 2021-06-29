@@ -95,7 +95,6 @@ class AuthTest {
         .then() // "тогда ожидаем"
             .statusCode(200); // код 200 OK
     }
-    ...
 }
 ```
 
